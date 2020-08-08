@@ -10,4 +10,3 @@ router.route('/:id').delete(deleteTransactions);
 module.exports = router;
 
 
-//CON STR:  mongodb://127.0.0.1:27017/transactions 
